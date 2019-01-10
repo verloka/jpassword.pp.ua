@@ -1,4 +1,4 @@
-![logon](https://raw.githubusercontent.com/ogycode/JesusPassword/master/merch/readme.png)
+![logo](https://github.com/verloka/jpassword.pp.ua/blob/gh-pages/images/readme.png)
 
 *Jesus Password* - password manager for devices running on Windows 8.1/10.
 Compared to other similar applications, Jesus Password - free and has a narrow specialization - storage of passwords from your accounts. Also not overloaded extra functionality as in other similar applications.
